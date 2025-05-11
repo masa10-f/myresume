@@ -3,11 +3,12 @@ listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
   - title: NICT Quantum Camp (Exploratory Talent Development Program)
-    role: Researcher
+    role: Participant
     description:
       - Development of a graph-based compiler for Measurement-based Quantum Computing.
+      - [https://nqc.nict.go.jp/program/research/](https://nqc.nict.go.jp/program/research/)
     date: Aug. 2024 - Mar. 2025
-  - title: Internship in Fixstars Amplify
+  - title: Internship in Fixstars Amplify Corporation
     role: Software Engineer Intern
     description:
       - Developed a Measurement-based Quantum Computing compiler, Graphix.
