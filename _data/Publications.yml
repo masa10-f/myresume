@@ -2,10 +2,10 @@ subject: Publications
 listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
-  - title: Journal
+  - title: Papers
     ref: 
-      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
-  - title: Conference
+      - "Tamamitsu, Miu, Keiichiro Toda, **Masato Fukushima**, Venkata Ramaiah Badarla, Hiroyuki Shimada, Sadao Ota, Kuniaki Konishi, and Takuro Ideguchi. 2024. “Mid-Infrared Wide-Field Nanoscopy.” Nature Photonics 18 (7): 738–43."
+      - "Sunami, Shinichi, and **Masato Fukushima**. 2022. “Graphix: Optimizing and Simulating Measurement-Based Quantum Computation on Local-Clifford Decorated Graph.” arXiv [Quant-Ph]. arXiv. http://arxiv.org/abs/2212.11975."
+  - title: Oral Presentations
     ref:
-      - "[3] I. Lebedev, **M. Yankovich**, L. Wang, G. Segev, “[Post-training of deep bidirectional transformers for language understanding](https://scholar.google.com/),” *in Proc. 99th Annu. Meeting Assoc. Comput. Linguistics*, pp. xxx–xxx, 202x."
+      - "**Masato Fukushima**, Keiichiro Toda, and Takuro Ideguchi. 'High-Resolution 3D Imaging with Wide-Field Mid-Infrared Photothermal Microscopy.' Photonics West. Jan. 2025. San Francisco, USA."
