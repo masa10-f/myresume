@@ -2,21 +2,13 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: NICT Quantum Camp (Exploratory Talent Development Program)
+    role: Researcher
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
+      - Development of a graph-based compiler for Measurement-based Quantum Computing.
+    date: Aug. 2024 - Mar. 2025
+  - title: Internship in Fixstars Amplify
     role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+    description:
+      - Developed a Measurement-based Quantum Computing compiler, Graphix.
+    date: Sep. 2022 - Feb. 2023
