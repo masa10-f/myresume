@@ -2,12 +2,12 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: MERIT (UTokyo) Fellowship
+    description: UTokyo's graduate school scholarship for material, information, and technology research
+    date: Oct. 2023
+  - title: JSPS DC1 Fellowship
+    description: Japan Society for the Promotion of Science Doctoral Course Fellowship
+    date: Apr. 2025
+  - title: JSR Fellowship
+    description: JSR Corporation's scholarship
+    date: Apr. 2025
