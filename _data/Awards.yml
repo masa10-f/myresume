@@ -2,12 +2,12 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: MERIT (UTokyo) Fellowship
-    description: UTokyo's graduate school scholarship for material, information, and technology research
-    date: Oct. 2023
-  - title: JSPS DC1 Fellowship
-    description: Japan Society for the Promotion of Science Doctoral Course Fellowship
-    date: Apr. 2025
   - title: JSR Fellowship
     description: JSR Corporation's scholarship
     date: Apr. 2025
+  - title: JSPS DC1 Fellowship
+    description: Japan Society for the Promotion of Science Doctoral Course Fellowship
+    date: Apr. 2025
+  - title: MERIT (UTokyo) Fellowship
+    description: UTokyo's graduate school scholarship for material, information, and technology research
+    date: Oct. 2023
