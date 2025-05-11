@@ -1,20 +1,13 @@
 title: Resume of Masato Fukushima
-profile_img: /assets/img/profile.webp
+profile_img: /assets/img/profile.png
 icon_img: /assets/img/icon.webp
 
 name: "Masato Fukushima"
 job: "PhD Student in Physics"
 
-phone_number: 012-345-6789
 address: Tokyo, Japan
 email: masa1063fuk@gmail.com
-linkedin_username: linkedin
 github_username: masa10-f
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
